@@ -1,4 +1,5 @@
 {
-  "version": "2.6.7",
-  "publishedAt": "2026-11-15"
+    "version":  "2.6.7",
+    "publishedAt":  "2026-11-15",
+    "notes":  "Pilotage des osmoseurs selon les affectations des générateurs, reprise de production pendant 15 minutes après la fin d\u0027une plage, prise en compte de plusieurs plages le même jour et retour à l\u0027état prévu après une coupure du module de relais."
 }
