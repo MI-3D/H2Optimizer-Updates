@@ -1,5 +1,5 @@
 {
-  "version": "2.6.12",
+  "version": "2.6.13",
   "publishedAt": "2026-11-16",
-  "notes": "Le tableau de bord signale l'arrêt différé d'un osmoseur après un démarrage ou une reconnexion, la supervision ne signale plus la base dégradée à tort, et le mode test simule entièrement les modules relais."
+  "notes": "La suppression d'un osmoseur emporte ses propres plages horaires, et une plage « Non attribuée » n'a plus aucun effet sur le démarrage des osmoseurs."
 }
