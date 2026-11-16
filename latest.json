@@ -1,4 +1,5 @@
 {
   "version": "2.6.11",
-  "publishedAt": "2026-11-16"
+  "publishedAt": "2026-11-16",
+  "notes": "Reprise fiable de la réception des générateurs et des modules relais à l'activation de la licence, et alerte de perte des générateurs limitée aux plages horaires qui pilotent un osmoseur."
 }
