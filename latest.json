@@ -1,4 +1,5 @@
 {
-  "version": "2.6.10",
-  "publishedAt": "2026-11-16"
+    "version":  "2.6.10",
+    "publishedAt":  "2026-11-16",
+    "notes":  "Heure de déconnexion des générateurs plus précise dans l\u0027historique et l\u0027analyse, et reprise fiable de la surveillance Modbus à l\u0027activation de la licence."
 }
