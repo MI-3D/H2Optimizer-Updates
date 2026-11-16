@@ -1,5 +1,4 @@
 {
-  "version": "2.6.9",
-  "publishedAt": "2026-11-15",
-  "notes": "Dernière activité des générateurs enregistrée en continu, démarrage sans faux message sur les modules relais, et exports de données en heure locale."
+  "version": "2.6.10",
+  "publishedAt": "2026-11-16"
 }
