@@ -1,5 +1,5 @@
 {
-  "version": "2.6.13",
-  "publishedAt": "2026-11-16",
-  "notes": "La suppression d'un osmoseur emporte ses propres plages horaires, et une plage « Non attribuée » n'a plus aucun effet sur le démarrage des osmoseurs."
+    "version":  "2.6.14",
+    "publishedAt":  "2026-11-17",
+    "notes":  "Nouveau mode duplex pour deux osmoseurs sur une même boucle, affectations simplifiées pour deux salles, et relais remis plus sûrement dans leur état après une coupure du module."
 }
