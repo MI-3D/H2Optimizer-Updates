@@ -1,5 +1,5 @@
 {
-    "version":  "2.6.14",
-    "publishedAt":  "2026-11-17",
-    "notes":  "Nouveau mode duplex pour deux osmoseurs sur une même boucle, affectations simplifiées pour deux salles, et relais remis plus sûrement dans leur état après une coupure du module."
+  "version": "2.6.15",
+  "publishedAt": "2026-11-18",
+  "notes": "Fiabilité de l'arrêt différé des osmoseurs : un arrêt reprogrammé reste annulable si un générateur reprend son traitement."
 }
