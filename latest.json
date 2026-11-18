@@ -1,5 +1,5 @@
 {
-  "version": "2.6.15",
+  "version": "2.6.16",
   "publishedAt": "2026-11-18",
-  "notes": "Fiabilité de l'arrêt différé des osmoseurs : un arrêt reprogrammé reste annulable si un générateur reprend son traitement."
+  "notes": "Affectations : les équipements d'un osmoseur désactivé redeviennent visibles et réaffectables. Arrêt différé des osmoseurs fiabilisé."
 }
